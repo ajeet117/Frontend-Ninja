@@ -1,0 +1,197 @@
+@media only screen and (max-width: 1024px)
+{
+	.container
+	{
+		width: 100%;
+	}
+
+	.service-list
+	{
+		grid-template-columns: 340px 340px 340px ;
+		grid-column-gap: 0px;
+	}
+}
+@media only screen and (max-width:850px)
+{
+	.container
+	{
+		width: 100%;
+	}
+	.black-background
+	{
+		width: 100%;
+		height: inherit;
+	}
+	.header-description
+	{
+		left: 35px;
+	}
+	.header-title
+	{
+		font-size: 62px;
+	}
+	hr
+	{
+		width: 200px;
+	}
+	#services
+	{
+		height: auto;
+		padding: 0px 30px;
+	}
+	.service-title
+	{
+		padding-top: 75px;
+	}
+	.service-list
+	{
+		display: flex;
+		flex-wrap: wrap;
+	}
+	.service-item
+	{
+		flex-basis: 47%;
+		margin: auto;
+	}
+}
+
+@media only screen and (max-width:480px)
+{
+	.black-background
+	{
+		width: 100%;
+		height: inherit;
+	}
+	.header-description
+	{
+		left: 15px;
+	}
+	.nav-menu
+	{
+		position: relative;
+	}
+	.bar .fa
+	{
+		display: block !important;
+	}
+	.nav-item
+	{
+	display: none;
+	position: absolute;
+	top: 60px;
+	right: 0px;
+	width: 270px;
+	background: #191b1a;
+	text-align: center;
+	}
+	.show
+	{
+		display: block;
+	}
+	/*header mobile css*/
+	.container
+	{
+		width: 100%;
+		margin: auto;
+	}
+	#header
+	{
+		height:700px;
+	}
+
+	#header .nav-list
+	{
+		display: block;
+	}
+	.header-description
+	{
+		margin-top:215px;
+	}
+	.header-title
+	{
+		font-size: 38px;
+	}
+	.header-content
+	{
+		font-size: 18px;
+		width: 350px;
+	}
+
+	/* requirement mobile css*/
+	#requirements
+	{
+		margin-top: 75px;
+	}
+	.require-title,.gallery-title
+	{
+		font-size: 32px;
+	}
+	.require-list
+	{
+		flex-direction: column;
+	}
+	.require-item
+	{
+		margin-top: 20px;
+		width: 350px;
+	}
+
+	/* info mobile-style */
+	#info
+	{
+		flex-direction: column;
+		margin-top: 75px;
+	}
+	.info-title
+	{
+		font-size: 32px;
+	}
+	.info-left
+	{
+		border-right: none;
+	}
+	hr
+	{
+		width: 270px;
+	}
+
+	/* services mobile-style */
+	#services
+	{
+		height: auto;
+		padding: 0px;
+	}
+	.service-title
+	{
+		padding-top: 55px;
+		font-size: 32px;
+	}
+	.service-item
+	{
+		width: 350px;
+		margin: auto;
+	}
+	.service-list
+	{
+		grid-template-columns: auto ;
+	}
+	.services-title
+	{
+		font-size: 16px;
+	}
+	.service-detail
+	{
+		font-size: 14px;
+	}
+
+	#footer
+	{
+		flex-direction: column;
+		text-align: center;
+		height: auto;
+	}
+	.left-line,.right-line
+	{
+		width: 100px
+	}
+}

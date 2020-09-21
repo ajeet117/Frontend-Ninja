@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 53.2 (72643) - https://sketchapp.com -->
+    <title>34ED6AC9-FE22-4BA5-B368-BB0601835D9F</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing-Page" transform="translate(-760.000000, -583.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="hero-text" transform="translate(259.000000, 310.000000)">
+                <g id="btn_read-more" transform="translate(352.000000, 248.000000)">
+                    <path d="M158,41.6153846 C162.205861,41.6153846 165.615385,38.2058608 165.615385,34 C165.615385,29.7941392 162.205861,26.3846154 158,26.3846154 C153.794139,26.3846154 150.384615,29.7941392 150.384615,34 C150.384615,38.2058608 153.794139,41.6153846 158,41.6153846 Z M158,43 C153.029437,43 149,38.9705627 149,34 C149,29.0294373 153.029437,25 158,25 C162.970563,25 167,29.0294373 167,34 C167,38.9705627 162.970563,43 158,43 Z M156.125849,36.972003 L157.10492,37.9510739 L161.052952,34.0030419 L157.108895,30.0495135 L156.12865,31.0274096 L159.095984,34.0018684 L156.125849,36.972003 Z" id="ic_arrow"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
